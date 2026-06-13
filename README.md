@@ -78,8 +78,7 @@ finance-tracker/
 ├── lib/                       # Core logic (Google Sheets, validation, constants)
 ├── public/                    # Static assets
 ├── .env.example               # Environment variable template
-├── AGENTS.md                  # Full project context for AI agents
-└── google-sheets-json-key/    # Service account key (gitignored)
+└── AGENTS.md                  # Full project context for AI agents
 ```
 
 ---

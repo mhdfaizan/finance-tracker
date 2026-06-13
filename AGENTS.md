@@ -69,9 +69,7 @@ finance-tracker/
 │   ├── utils.js                # generateId, getTimestamp, validation, date helpers
 │   └── googleSheets.js         # Google Sheets client + CRUD helpers (appendRow, readAll, findById, updateRow, deleteRow)
 ├── .env.local                  # Local env vars (gitignored)
-├── .env.example                # Template for env vars
-├── .gitignore                  # Includes .env*, google-sheets-json-key/
-└── google-sheets-json-key/     # Service account JSON key (gitignored)
+└── .env.example                # Template for env vars
 ```
 
 ## Google Sheets Structure

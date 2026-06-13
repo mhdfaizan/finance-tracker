@@ -42,3 +42,5 @@ google-sheets-json-key/
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
