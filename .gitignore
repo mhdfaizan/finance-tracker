@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# service account keys
+google-sheets-json-key/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
